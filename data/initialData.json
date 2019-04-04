@@ -1,0 +1,58 @@
+{
+  "cardResults": [
+    {
+      "cardHolderName": "EDWAR ORLANDO AMAYA DIAZ 0",
+      "cardNumber": "5365338474831957",
+      "cardMonth": "05",
+      "cardYear": "2020",
+      "cardCvv": "193",
+      "cardColor": null,
+      "cardType": "CREDIT"
+    },
+    {
+      "cardHolderName": "JUAN DIEGO AMAYA DIAZ",
+      "cardNumber": "4166233561788646",
+      "cardMonth": "04",
+      "cardYear": "2024",
+      "cardCvv": "688",
+      "cardColor": null,
+      "cardType": "CREDIT"
+    },
+    {
+      "cardHolderName": "ORLANDO AMAYA SALGADO",
+      "cardNumber": "5559375041701392",
+      "cardMonth": "06",
+      "cardYear": "2027",
+      "cardCvv": "558",
+      "cardColor": null,
+      "cardType": "CREDIT"
+    },
+    {
+      "cardHolderName": "ANGELA ROCIO AMAYA DIAZ",
+      "cardNumber": "5565266114993341",
+      "cardMonth": "10",
+      "cardYear": "2022",
+      "cardCvv": "290",
+      "cardColor": null,
+      "cardType": "CREDIT"
+    },
+    {
+      "cardHolderName": "MARIA DEL ROSARIO DIAZ RINCON",
+      "cardNumber": "4954988223570171",
+      "cardMonth": "02",
+      "cardYear": "2026",
+      "cardCvv": "283",
+      "cardColor": null,
+      "cardType": "CREDIT"
+    },
+    {
+      "cardHolderName": "ANDRES FELIPE AMAYA DIAZ",
+      "cardNumber": "4137921689337454",
+      "cardMonth": "10",
+      "cardYear": "2024",
+      "cardCvv": "376",
+      "cardColor": null,
+      "cardType": "CREDIT"
+    }
+  ]
+}
